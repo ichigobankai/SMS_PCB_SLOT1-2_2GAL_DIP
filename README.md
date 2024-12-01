@@ -40,6 +40,8 @@ search for "electrolytic 22uf 6.3v"(example)
 <h4>GERBER FILES are made for JLCPCB,<br>
 but should be pretty universal</h4>
 
+Also posted at <a href="https://www.smspower.org/forums/20390-PCBSMSCartridgeWithSlot12InDIPFormatEasyHandSoldering" target="_blank">SMSpower!</a>
+
 <strong>Some pics!</strong>
 
 <h4>PROTO</h4>
