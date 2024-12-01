@@ -1,10 +1,10 @@
 # SMS_PCB_SLOT1-2_2GAL_DIP
-Master System repro PCB 512kB, handling SLOT 1 &amp; 2, using 2x GAL in DIP package
+SEGA Master System repro PCB, handling SLOT 1 &amp; 2, using 2x GAL in DIP package
 
-An easy-to-solder SEGA Master System PCB (in DIP format),<br>
-compatible with slot 1 / 2,<br>
-with a capacity of 512kB<br>
-(covering most of the Master System library and homebrew, like Alex kidd hacks).
+An <strong>easy-to-solder</strong> SEGA Master System PCB (DIP format),<br>
+compatible with <strong>slot 1 / 2</strong>,<br>
+with a capacity of <strong>512kB</strong><br>
+(covering most of the Master System library and homebrew, like Alex Kidd hacks).
 
 <img src="https://github.com/ichigobankai/SMS_PCB_SLOT1-2_2GAL_DIP/blob/main/ichigo_sms2gal.jpg" width="50%" height="auto">
 
