@@ -28,3 +28,6 @@ THE ROM NEEDS TO:
 NOT SUPPORTED:
 * slot 0 (Space Gun)
 * SRAM save
+
+GERBER FILES are made for JLCPCB, 
+but should be pretty universal
