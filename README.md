@@ -8,7 +8,7 @@ with a capacity of <strong>512kB</strong><br>
 
 <img src="https://github.com/ichigobankai/SMS_PCB_SLOT1-2_2GAL_DIP/blob/main/ichigo_sms2gal.jpg" width="50%" height="auto">
 
-<strong>Works on SMS, MD and Mark III (no special pin used)</strong><br>
+<strong>Works on SMS. Should work on MD and Mark III (no special pin used)</strong><br>
 BUS pins used : D0..D4, A0, A13..A15, /OE, /CE, /WE and /RESET<br>
 
 <h3>Only few components needed:</h3>
