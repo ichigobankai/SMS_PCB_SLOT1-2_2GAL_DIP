@@ -18,7 +18,7 @@ BUS pins used : D0..D4, A0, A13..A15, /OE, /CE, /WE and /RESET<br>
 NB. *can* be rewritten after soldering (depend of your dumper/writer).
 
 <strong>IC1. GAL22V10</strong><br>
-file: XKGSMSM1_IC1-v10.jed
+file: XKGSMSM1_IC1-v10.jed<br>
 added a XKGSMSM1_IC1-v10_TL866.jed (headerless file)
 
 <strong>IC2. GAL16V8</strong><br>
